@@ -1,8 +1,11 @@
-#include <studio.h>
+	ptdio.h>
 
-/**
-* main - Entry point
-*
-* Return: Always 0 (Success)
+	/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
 	*/
-	qqqqqin
+	int main(void)
+	{
+	return (0)		;
+	}~
