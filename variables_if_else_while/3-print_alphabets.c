@@ -10,7 +10,6 @@ int main(void)
 	char ch = 'a';
 
 	/* Print lowercase alphabetical chars */
-       
 	while ( ch <= 'z')
 	{
 	  putchar(ch);
@@ -18,9 +17,7 @@ int main(void)
 	}
 
 	ch = 'A'; /* reset to uppercase */
-	
 	/* Print uppercase alphabetical chars */
-
 	while ( ch <= 'Z')
 	{
 	  putchar(ch);
@@ -28,6 +25,5 @@ int main(void)
 	}	       
 
 	putchar('\n');
-	
 	return (0);
 }
