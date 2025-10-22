@@ -12,11 +12,11 @@ int main(void)
 
   /* Print lowercase alphabet */
     {
-      if (ch != 'q' && ch !='e')
+      if (ch != 'q' && ch != 'e')
 	putchar(ch);
       ch++;
     }
 
   putchar('\n');
-    return (0);
+  return (0);
 }
