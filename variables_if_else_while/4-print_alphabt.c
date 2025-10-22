@@ -8,6 +8,8 @@ int main(void)
 {
   char ch = 'a';
 
+  while (ch <= 'z')
+
   /* Print lowercase alphabet */
   if (ch != 'q' && ch !='e')
     {
