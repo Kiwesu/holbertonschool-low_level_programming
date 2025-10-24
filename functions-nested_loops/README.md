@@ -1,10 +1,4 @@
 # Functions, nested loops
 
-## Learning Objectives
-- What are nested loops and how to use them
-- What is a function and how do you use functions
-- What is the difference between a declaration and a definition of a function
-- What is a prototype
-- Scope of variables
-- What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
-- What are header files and how to use them with #include
+A function in C allows you to organize code into reusable blocks that perform specific tasks.
+Nested loops let you execute a loop inside another loop, making it easier to handle multidimensional data and repetitive operations.
